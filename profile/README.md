@@ -6,7 +6,7 @@
 
 *Bridging the gap between academic learning and real-world technology — from Palestine to the world.*
 
-[![Website](https://img.shields.io/badge/Website-binx--tech.com-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://www.binx-tech.com)
+[![Website](https://img.shields.io/badge/Website-binxtech.com-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://www.binx-tech.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BinX_Tech-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/binx-tech/)
 [![Instagram](https://img.shields.io/badge/Instagram-@binx.tech-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/binx.tech)
 [![Email](https://img.shields.io/badge/Email-contact@binx--tech.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@binx-tech.com)

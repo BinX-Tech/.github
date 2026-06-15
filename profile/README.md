@@ -114,8 +114,6 @@ A community of creative and ambitious students building the future together.
 | **Baraa Ayasi** | CFO |
 | **Mohammad Zidan** | CTO |
 | **Jamela Shalalda** | CMO |
-| **Yamin Qabaha** | Networks Manager |
-| **Abdullah Ta'meh** | Media Manager |
  
 ---
  

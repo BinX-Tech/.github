@@ -1,6 +1,6 @@
 <div align="center">
 <img src="./logo.png" width="160" alt="BinX Tech Logo"/>
-# BinX Tech
+
  
 ### Build. Innovate. Scale.
  

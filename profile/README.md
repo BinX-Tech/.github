@@ -111,8 +111,8 @@ A community of creative and ambitious students building the future together.
 |---|---|
 | **Hisham Qalalwa** | Founder & CEO |
 | **Aya Fathi** | COO |
-| **Baraa Ayasi** | CFO |
 | **Mohammad Zidan** | CTO |
+| **Baraa Ayasi** | CFO |
 | **Jamela Shalalda** | CMO |
  
 ---
